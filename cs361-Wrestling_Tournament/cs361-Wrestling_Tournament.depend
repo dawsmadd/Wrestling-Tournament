@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1606337786 source:c:\users\dawson\documents\odu\cs361\cs361-wrestling_tournament\main.cpp
+	<iostream>
+	<ctime>
+	<list>
+	<vector>
+	<random>
+	<queue>
+	<fstream>
+	<bits/stdc++.h>
+	"include/wrestler.h"
+	"include/abilityCompare.h"
+
+1606176456 c:\users\dawson\documents\odu\cs361\cs361-wrestling_tournament\include\wrestler.h
+
+1606176456 c:\users\dawson\documents\odu\cs361\cs361-wrestling_tournament\include\abilitycompare.h
+	<vector>
+	<queue>
+	<iostream>
+	"wrestler.h"
+
+1606176456 source:c:\users\dawson\documents\odu\cs361\cs361-wrestling_tournament\src\abilitycompare.cpp
+	<vector>
+	<queue>
+	<iostream>
+	"abilityCompare.h"
+
+1606176456 source:c:\users\dawson\documents\odu\cs361\cs361-wrestling_tournament\src\wrestler.cpp
+	"wrestler.h"
+	<iostream>
+	<ctime>
+	<list>
+	<vector>
+	<random>
+	<queue>
+

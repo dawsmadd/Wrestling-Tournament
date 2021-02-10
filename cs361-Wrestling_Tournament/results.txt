@@ -1,0 +1,238 @@
+-----------------------------------------------
+Bracket for Weight Class 106
+
+Wrestler 317 wins by default
+No wrestler available
+No wrestler available
+No wrestler available
+Wrestler 317 wins by default
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+Wrestler 317 wins by default
+-----------------------------------------------
+Bracket for Weight Class 113
+
+Wrestler 525 wins by default
+No wrestler available
+No wrestler available
+No wrestler available
+Wrestler 525 wins by default
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+Wrestler 525 wins by default
+-----------------------------------------------
+Bracket for Weight Class 120
+
+Wrestler 520 wins by default
+No wrestler available
+No wrestler available
+No wrestler available
+Wrestler 520 wins by default
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+Wrestler 520 wins by default
+-----------------------------------------------
+Bracket for Weight Class 126
+
+Wrestler 205 wins by default
+Wrestler 515 beat wrestler 429 with a score of 2
+Wrestler 705 wins by default
+Wrestler 804 wins by default
+Wrestler 205 beat wrestler 515 with a score of 6
+Wrestler 705 beat wrestler 804 with a score of 2
+Wrestler 429 wins by default
+No wrestler available
+Wrestler 804 beat wrestler 429 with a score of 5
+Wrestler 515 wins by default
+No wrestler available
+Wrestler 429 wins by default
+Wrestler 804 beat wrestler 515 with a score of 5
+Wrestler 205 beat wrestler 705 with a score of 2
+-----------------------------------------------
+Bracket for Weight Class 132
+
+Wrestler 104 beat wrestler 620 with a score of 6
+Wrestler 817 beat wrestler 708 with a score of 2
+Wrestler 210 beat wrestler 504 with a score of 6
+Wrestler 405 beat wrestler 321 with a score of 4
+Wrestler 104 beat wrestler 817 with a score of 3
+Wrestler 210 beat wrestler 405 with a score of 2
+Wrestler 708 beat wrestler 620 with a score of 6
+Wrestler 321 beat wrestler 504 with a score of 3
+Wrestler 405 beat wrestler 708 with a score of 2
+Wrestler 817 beat wrestler 321 with a score of 4
+Wrestler 504 beat wrestler 620 with a score of 2
+Wrestler 708 beat wrestler 321 with a score of 3
+Wrestler 405 beat wrestler 817 with a score of 2
+Wrestler 104 beat wrestler 210 with a score of 2
+-----------------------------------------------
+Bracket for Weight Class 138
+
+Wrestler 120 wins by default
+Wrestler 412 beat wrestler 722 with a score of 2
+Wrestler 204 beat wrestler 513 with a score of 6
+Wrestler 830 beat wrestler 608 with a score of 4
+Wrestler 120 beat wrestler 412 with a score of 6
+Wrestler 204 beat wrestler 830 with a score of 4
+Wrestler 722 wins by default
+Wrestler 608 beat wrestler 513 with a score of 2
+Wrestler 830 beat wrestler 722 with a score of 3
+Wrestler 412 beat wrestler 608 with a score of 3
+Wrestler 513 wins by default
+Wrestler 722 beat wrestler 608 with a score of 2
+Wrestler 830 beat wrestler 412 with a score of 2
+Wrestler 120 beat wrestler 204 with a score of 6
+-----------------------------------------------
+Bracket for Weight Class 145
+
+Wrestler 622 beat wrestler 523 with a score of 6
+Wrestler 313 beat wrestler 201 with a score of 2
+Wrestler 105 beat wrestler 417 with a score of 4
+Wrestler 719 beat wrestler 803 with a score of 2
+Wrestler 622 beat wrestler 313 with a score of 2
+Wrestler 105 beat wrestler 719 with a score of 2
+Wrestler 201 beat wrestler 523 with a score of 6
+Wrestler 803 beat wrestler 417 with a score of 2
+Wrestler 719 beat wrestler 201 with a score of 2
+Wrestler 313 beat wrestler 803 with a score of 2
+Wrestler 417 beat wrestler 523 with a score of 6
+Wrestler 201 beat wrestler 803 with a score of 2
+Wrestler 719 beat wrestler 313 with a score of 2
+Wrestler 622 beat wrestler 105 with a score of 2
+-----------------------------------------------
+Bracket for Weight Class 152
+
+Wrestler 502 wins by default
+Wrestler 617 beat wrestler 114 with a score of 2
+Wrestler 322 beat wrestler 206 with a score of 5
+Wrestler 829 beat wrestler 714 with a score of 2
+Wrestler 502 beat wrestler 617 with a score of 5
+Wrestler 322 beat wrestler 829 with a score of 2
+Wrestler 114 wins by default
+Wrestler 714 beat wrestler 206 with a score of 2
+Wrestler 829 beat wrestler 114 with a score of 2
+Wrestler 617 beat wrestler 714 with a score of 2
+Wrestler 206 wins by default
+Wrestler 114 beat wrestler 714 with a score of 2
+Wrestler 829 beat wrestler 617 with a score of 2
+Wrestler 502 beat wrestler 322 with a score of 2
+-----------------------------------------------
+Bracket for Weight Class 160
+
+Wrestler 416 beat wrestler 203 with a score of 6
+Wrestler 801 beat wrestler 519 with a score of 2
+Wrestler 621 beat wrestler 319 with a score of 4
+Wrestler 109 beat wrestler 721 with a score of 2
+Wrestler 416 beat wrestler 801 with a score of 3
+Wrestler 621 beat wrestler 109 with a score of 2
+Wrestler 519 beat wrestler 203 with a score of 6
+Wrestler 721 beat wrestler 319 with a score of 2
+Wrestler 109 beat wrestler 519 with a score of 2
+Wrestler 801 beat wrestler 721 with a score of 2
+Wrestler 319 beat wrestler 203 with a score of 6
+Wrestler 519 beat wrestler 721 with a score of 2
+Wrestler 109 beat wrestler 801 with a score of 2
+Wrestler 416 beat wrestler 621 with a score of 3
+-----------------------------------------------
+Bracket for Weight Class 170
+
+Wrestler 624 beat wrestler 303 with a score of 6
+Wrestler 202 beat wrestler 428 with a score of 2
+Wrestler 806 beat wrestler 512 with a score of 6
+Wrestler 716 beat wrestler 122 with a score of 5
+Wrestler 624 beat wrestler 202 with a score of 6
+Wrestler 806 beat wrestler 716 with a score of 2
+Wrestler 428 beat wrestler 303 with a score of 3
+Wrestler 122 beat wrestler 512 with a score of 2
+Wrestler 716 beat wrestler 428 with a score of 3
+Wrestler 202 beat wrestler 122 with a score of 2
+Wrestler 512 beat wrestler 303 with a score of 2
+Wrestler 428 beat wrestler 122 with a score of 2
+Wrestler 716 beat wrestler 202 with a score of 3
+Wrestler 624 beat wrestler 806 with a score of 2
+-----------------------------------------------
+Bracket for Weight Class 182
+
+Wrestler 423 beat wrestler 112 with a score of 6
+Wrestler 318 beat wrestler 810 with a score of 2
+Wrestler 628 beat wrestler 723 with a score of 2
+Wrestler 501 beat wrestler 214 with a score of 2
+Wrestler 423 beat wrestler 318 with a score of 2
+Wrestler 628 beat wrestler 501 with a score of 2
+Wrestler 810 beat wrestler 112 with a score of 6
+Wrestler 214 beat wrestler 723 with a score of 2
+Wrestler 501 beat wrestler 810 with a score of 2
+Wrestler 318 beat wrestler 214 with a score of 2
+Wrestler 723 beat wrestler 112 with a score of 5
+Wrestler 810 beat wrestler 214 with a score of 2
+Wrestler 501 beat wrestler 318 with a score of 2
+Wrestler 423 beat wrestler 628 with a score of 2
+-----------------------------------------------
+Bracket for Weight Class 195
+
+Wrestler 309 beat wrestler 119 with a score of 6
+Wrestler 815 beat wrestler 215 with a score of 2
+Wrestler 426 beat wrestler 510 with a score of 6
+Wrestler 606 beat wrestler 711 with a score of 3
+Wrestler 309 beat wrestler 815 with a score of 3
+Wrestler 426 beat wrestler 606 with a score of 2
+Wrestler 215 beat wrestler 119 with a score of 6
+Wrestler 711 beat wrestler 510 with a score of 2
+Wrestler 606 beat wrestler 215 with a score of 2
+Wrestler 815 beat wrestler 711 with a score of 3
+Wrestler 510 beat wrestler 119 with a score of 4
+Wrestler 215 beat wrestler 711 with a score of 2
+Wrestler 606 beat wrestler 815 with a score of 2
+Wrestler 309 beat wrestler 426 with a score of 2
+-----------------------------------------------
+Bracket for Weight Class 220
+
+Wrestler 306 wins by default
+Wrestler 630 wins by default
+Wrestler 514 wins by default
+Wrestler 419 wins by default
+Wrestler 306 beat wrestler 630 with a score of 5
+Wrestler 514 beat wrestler 419 with a score of 2
+No wrestler available
+No wrestler available
+Wrestler 419 wins by default
+Wrestler 630 wins by default
+No wrestler available
+No wrestler available
+Wrestler 419 beat wrestler 630 with a score of 2
+Wrestler 306 beat wrestler 514 with a score of 3
+-----------------------------------------------
+Bracket for Weight Class 285
+
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
+No wrestler available
